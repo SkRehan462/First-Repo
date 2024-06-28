@@ -1,4 +1,4 @@
 # First-Repo
 This is my first Git Repository
-<br>
+<hr>
 Author- Shaikh Rehan
